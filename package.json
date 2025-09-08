@@ -31,6 +31,11 @@
     ],
     "author": "Eddy Joss Axel Mouity Etavenot",
     "license": "ISC",
+    "files": [
+        "src",
+        "README.md",
+        "LICENSE"
+    ],
     "packageManager": "pnpm@10.11.0",
     "type": "module",
     "engines": {
