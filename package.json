@@ -41,6 +41,9 @@
     "engines": {
         "node": ">=18"
     },
+    "publishConfig": {
+        "access": "public"
+    },
     "bin": {
         "peermsg": "src/index.js"
     }
