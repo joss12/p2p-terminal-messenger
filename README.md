@@ -55,3 +55,17 @@ peermsg send devs "Quick update: build passed ✅"
 👥 List peers
 peermsg peers devs
 
+```bash
+pnpm add -g peermsg
+
+or with npm:
+
+npm install -g peermsg
+
+From PowerShell or cmd.exe:
+peermsg join devs --name Eddy
+
+Another terminal (same machine or LAN peer):
+peermsg join devs --name Hana
+
+
