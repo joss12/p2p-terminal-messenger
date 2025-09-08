@@ -56,10 +56,10 @@ peermsg send devs "Quick update: build passed ✅"
 peermsg peers devs
 
 ```bash
+Install the CLI on Windows
+
 pnpm add -g peermsg
-
 or with npm:
-
 npm install -g peermsg
 
 From PowerShell or cmd.exe:
