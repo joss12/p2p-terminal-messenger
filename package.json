@@ -1,0 +1,42 @@
+{
+    "name": "peermsg",
+    "version": "1.0.0",
+    "description": "Lightweight peer-to-peer LAN messenger CLI with UDP broadcast/multicast, AES encryption, and full-screen TUI mode.",
+    "main": "index.js",
+    "scripts": {
+        "test": "node -e \"console.log(\"ok\")\"",
+        "dev": "node src/index.js --help"
+    },
+    "keywords": [
+        "p2p",
+        "peer-to-peer",
+        "lan",
+        "local-network",
+        "messenger",
+        "chat",
+        "cli",
+        "terminal",
+        "tui",
+        "udp",
+        "multicast",
+        "broadcast",
+        "webrtc",
+        "realtime",
+        "secure",
+        "encryption",
+        "aes",
+        "developer-tool",
+        "networking",
+        "open-source"
+    ],
+    "author": "Eddy Joss Axel Mouity Etavenot",
+    "license": "ISC",
+    "packageManager": "pnpm@10.11.0",
+    "type": "module",
+    "engines": {
+        "node": ">=18"
+    },
+    "bin": {
+        "peermsg": "src/index.js"
+    }
+}
