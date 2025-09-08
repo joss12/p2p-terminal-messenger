@@ -1,6 +1,6 @@
 {
     "name": "peermsg",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Lightweight peer-to-peer LAN messenger CLI with UDP broadcast/multicast, AES encryption, and full-screen TUI mode.",
     "main": "index.js",
     "scripts": {
